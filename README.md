@@ -1,4 +1,3 @@
-# Bike-Rental-Prediction-with-Interaction-Effects
 # Bike Rental Prediction with Interaction Effects
 
 This repository contains an analysis of bike rental predictions using linear regression models, with and without interaction effects. The goal is to assess how incorporating interactions between different features can improve the model's ability to predict rented bike counts. The dataset includes various features such as temperature, humidity, season, and other environmental factors.
