@@ -19,10 +19,7 @@ The project follows a structured process to analyze the bike rental problem and 
 3. [Interaction Effects](#3-interaction-effects)
 4. [Model Evaluation](#4-model-evaluation)
 5. [Results and Analysis](#5-results-and-analysis)
-6. [Installation](#6-installation)
-7. [Usage](#7-usage)
-8. [License](#8-license)
-9. [Contact](#9-contact)
+
 
 ## 1. Data Preprocessing and Transformation
 
